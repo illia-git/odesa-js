@@ -1,5 +1,5 @@
 {
-  "name": "odesa-library",
+  "name": "@illia-git/odesa-js",
   "version": "1.0.0",
   "description": "A library to provide date functionalities related to the city of Odesa.",
   "main": "./dist/Odesa.js",
