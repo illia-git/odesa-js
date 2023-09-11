@@ -1,6 +1,6 @@
 {
   "name": "@illia-git/odesa-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library to provide date functionalities related to the city of Odesa.",
   "main": "./dist/Odesa.js",
   "types": "./dist/Odesa.d.ts",
@@ -8,5 +8,6 @@
     "build": "tsc"
   },
   "author": "illia-git",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "private": false
 }
